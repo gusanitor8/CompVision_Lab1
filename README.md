@@ -13,3 +13,6 @@
 
 ## Versión de Python
 `Python 3.10.16`
+
+## Conda
+Si lo desea hay un entorno de conda `environment.yml` para utilizarlo en los notebooks.
