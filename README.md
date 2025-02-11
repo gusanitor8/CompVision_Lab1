@@ -10,3 +10,6 @@
 - Gustavo González - 21438  
 - Diego Leiva - 21752  
 - Pablo Orellana - 21970  
+
+## Versión de Python
+`Python 3.10.16`
